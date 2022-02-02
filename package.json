@@ -1,0 +1,25 @@
+{
+  "name": "@lup-iut-limoges/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Module NPM fait pour les TP de nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wither87-fr/iut_encrypt_lup.git"
+  },
+  "keywords": [
+    "encrypt",
+    "iut",
+    "node",
+    "npm"
+  ],
+  "author": "Wither",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wither87-fr/iut_encrypt_lup/issues"
+  },
+  "homepage": "https://github.com/Wither87-fr/iut_encrypt_lup#readme"
+}
